@@ -1,79 +1,11 @@
-#contactname {
-
-}
-
-#namefield {
-    color: #777777;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 13pt;
-    border-width: thin;
-    border-color: silver;
-    border-style: solid;
-    padding-left: 10px; 
-    max-height: 25px;
-    resize: none;
-    overflow: auto;
-    width: 899px;
-}
-
-#email {
-
-}
-
-#emailfield {
-    color: #777777;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 13pt;
-    border-width: thin;
-    border-color: silver;
-    border-style: solid;
-    padding-left: 10px;
-    width: 899px;
-    max-height: 25px;
-    resize: none;
-    overflow: auto;
-
-}
-
-#message {
-
-}
-
-#messagetext {
-    color: #777777;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 13pt;
-    border-width: thin;
-    border-color: silver;
-    border-style: solid;
-    padding-left: 10px;
-    min-width: 899px;;
-    max-width: 899px;
-    min-height: 75px;
-    max-height: 200px;
-    overflow: auto;
-}
-
-#submit {
-    color: #4aaaa5;
-
-
-}
-
-button {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10pt;
-    height: 25px;
-    width: 75px;
-    border-radius: 10%;
-
-}
 
 button:hover {
     background-color: #4aaaa5;
     color: white
 }
 
-button:selection {
+.githublogo {
+    width: 208px;
+    height: 52px;
 
-} 
+}
