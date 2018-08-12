@@ -4,8 +4,24 @@ button:hover {
     color: white
 }
 
-.githublogo {
-    width: 208px;
-    height: 52px;
+.linkedinlogo {
+    float: left;
+    clear: both;
+}
 
+.githublogo {
+    margin-top: 50px;
+    margin-left: -15px;
+    width: 206px;
+    height: 56px;
+    float: left;
+    clear: both;
+}
+
+.emaillogo {
+    margin-top: 50px;
+    float: left;
+    clear: both;
+    width: 100px;
+    height: 100px;
 }
