@@ -6,22 +6,22 @@ button:hover {
 
 .linkedinlogo {
     float: left;
-    clear: both;
+    /* clear: both; */
 }
 
 .githublogo {
-    margin-top: 50px;
-    margin-left: -15px;
+    margin-top: 20px;
+    margin-left: 257.5px;
     width: 206px;
     height: 56px;
     float: left;
-    clear: both;
+    /* clear: both; */
 }
 
 .emaillogo {
-    margin-top: 50px;
-    float: left;
-    clear: both;
+    /* margin-top: 50px; */
+    float: right;
+    /* clear: both; */
     width: 100px;
     height: 100px;
 }
